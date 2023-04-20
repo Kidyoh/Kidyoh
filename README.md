@@ -7,7 +7,7 @@ I started my programming journey when i joined Wollo Univesity on 2019, ever sin
 <div align="center">
 <h1> 🌐 Socials: </h1>
   
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kidusyoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mela/](https://www.linkedin.com/in/kidus-yohannes-568a31207)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kidyoh) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kidusyoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mela/](https://www.linkedin.com/in/kidus-yohannes-568a31207)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kidyoh789) 
 </div>
 <div align="center">
 <h1> 💻 Tech Stack: </h1>
