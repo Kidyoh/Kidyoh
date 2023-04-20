@@ -12,7 +12,7 @@ I started my programming journey when i joined Wollo Univesity on 2019, ever sin
 <div align="center">
 <h1> 💻 Tech Stack: </h1>
   
-![Flutter](https://img.shields.io/badge/flutter-%23027DFD?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![PHP](https://img.shields.io/badge/php-%230769AD.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-%23027DFD?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%230769AD.svg?style=for-the-badge&logo=php&logoColor=white)![HTML](https://img.shields.io/badge/html-%230769AD.svg?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/css-%230769AD.svg?style=for-the-badge&logo=css&logoColor=white) 
 </div>
 
 <div align="center">
