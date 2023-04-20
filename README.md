@@ -30,6 +30,6 @@ I started my programming journey when i joined Wollo Univesity on 2019, ever sin
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kidyoh&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kidyoh&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
