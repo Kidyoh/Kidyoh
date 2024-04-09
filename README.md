@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 💫 About Me:</h1>
-I started my programming journey when i joined Wollo Univesity on 2019, ever since i joined there software engineering program, the urge in me to know more about the fiekd have grown in a way that now all my time is dedicated to it, i started with C++ and eventually grew my knowledge learning different programming languages and even deployed my first ever website on 2022, aka Beclassicphotography.com, please do check it out and lemme know what you think about it. Currently am working on different projects using flutter and will be released so soon. I also like doing different things like Singing, taking pictures and long walks.
+I started my programming journey when i joined Wollo Univesity on 2020, ever since i joined there software engineering program, the urge in me to know more about the fiekd have grown in a way that now all my time is dedicated to it, i started with C++ and eventually grew my knowledge learning different programming languages and even deployed my first ever website on 2022, aka Beclassicphotography.com, please do check it out and lemme know what you think about it. Currently am working on different projects using flutter and will be released so soon. I also like doing different things like Singing, taking pictures and long walks.
 </div>
 
 
