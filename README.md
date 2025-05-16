@@ -8,13 +8,13 @@
 
 I'm an AI Engineer passionate about using machine learning and software to improve lives. I started my coding journey at Wollo University in 2020, and have since grown into a full-stack developer with a mission: building impactful, ethical, and locally relevant solutions.
 
-- 🌐 My portfolio: [kidus.engineer](https://kidus.engineer)
+- 🌐 Portfolio: [kidus.engineer](https://kidus.engineer)
 - 🚀 First deployed site (2022): [Beclassicphotography.com](https://beclassicphotography.com)
-- 🧠 Co-founder of **MindBloom**, an AI-driven mental health platform under Ubuntu in Mela:[Mindbloom.kidus](https://mindbloom.kidus.engineer)
-- 📱 Flutter + React for rapid cross-platform development
+- 🧠 Co-founder of **MindBloom**, an AI-driven mental health platform under Ubuntu in Mela: 
+- 📱 Flutter + React for rapid cross-platform development [Mindbloom](https://mindbloom.kidus.engineer)
 - 🤝 Collaborating with NGOs like Alenelachehu to expand access to mental health support
 - 🎯 Exploring NLP, LLMs, and AI-powered learning systems
-- 🎶 Personal joys: Singing, photography, deep conversations, and long walks
+- 🎶 Hobbies: Singing, photography, deep conversations, and long walks
 
 ## 🌐 Connect With Me
 
@@ -41,6 +41,7 @@ I'm an AI Engineer passionate about using machine learning and software to impro
 
 ### 🖥️ Frontend Development  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +59,11 @@ I'm an AI Engineer passionate about using machine learning and software to impro
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### ☁️ Deployment & DevOps  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
