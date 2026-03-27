@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm an AI Engineer passionate about using machine learning and software to improve lives. I started my coding journey at Wollo University in 2020, and have since grown into a full-stack developer with a mission: building impactful, ethical, and locally relevant solutions.
+I'm a Lead AI Engineer/ML Engineer at Shega.co, passionate about using machine learning and software to improve lives. I started my coding journey at Wollo University in 2020, and have since grown into a full-stack developer with a mission: building impactful, ethical, and locally relevant solutions.
 
 - 🌐 Portfolio: [kidus-yohannes.engineer](https://kidus-yohannes.engineer/)
 - 🚀 First deployed site (2022): [Beclassicphotography.com](https://beclassicphotography.com)
