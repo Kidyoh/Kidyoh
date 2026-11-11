@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 168" width="580" height="168" role="img" aria-label="Ethiopia Earthquake Monitor: Maps and tracks earthquakes in Ethiopia from live USGS data, in English and Amharic." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<title>Ethiopia Earthquake Monitor: Maps and tracks earthquakes in Ethiopia from live USGS data, in English and Amharic.</title>
+<rect x="0.5" y="0.5" width="579" height="167" rx="18" fill="#f6f8fa" stroke="#d1d9e0"/>
+
+<rect x="24" y="24" width="64" height="64" rx="16" fill="#2563eb" opacity="0.16"/>
+<text x="56" y="67" font-size="30" font-weight="700" fill="#2563eb" text-anchor="middle">E</text>
+<text x="108" y="50" font-size="20" font-weight="700" fill="#1f2328">Ethiopia Earthquake Monitor</text>
+<text x="108" y="76" font-size="15" fill="#59636e">Maps and tracks earthquakes in Ethiopia from live USGS</text>
+<text x="108" y="97" font-size="15" fill="#59636e">data, in English and Amharic.</text>
+<text x="108" y="146" font-size="12.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" fill="#1f2328" opacity="0.8">Next.js · Leaflet</text>
+</svg>

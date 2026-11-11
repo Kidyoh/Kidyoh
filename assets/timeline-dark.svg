@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Timeline of 114 public repositories by creation date. 26 repos in October 2026." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<title>Timeline of 114 public repositories by creation date. 26 repos in October 2026.</title>
+<rect x="0.5" y="0.5" width="1199" height="469" rx="18" fill="#0f141b" stroke="#2f3742"/>
+
+<text x="56" y="52" font-size="22" font-weight="700" fill="#e6edf3">Every public repo, by the day it started</text>
+<text x="56" y="76" font-size="14" fill="#9198a1">One dot per repository. Colour is its main language; bigger dots have more stars.</text>
+<circle cx="62" cy="96" r="6" fill="#60a5fa"/><text x="74" y="101" font-size="13" fill="#9198a1">TypeScript</text>
+<circle cx="176.2" cy="96" r="6" fill="#2dd4bf"/><text x="188.2" y="101" font-size="13" fill="#9198a1">JavaScript</text>
+<circle cx="290.4" cy="96" r="6" fill="#fbbf24"/><text x="302.4" y="101" font-size="13" fill="#9198a1">Dart</text>
+<circle cx="362.47999999999996" cy="96" r="6" fill="#a78bfa"/><text x="374.47999999999996" y="101" font-size="13" fill="#9198a1">Python</text>
+<circle cx="448.59999999999997" cy="96" r="6" fill="#f472b6"/><text x="460.59999999999997" y="101" font-size="13" fill="#9198a1">Shell</text>
+<circle cx="527.6999999999999" cy="96" r="6" fill="#6e7681"/><text x="539.6999999999999" y="101" font-size="13" fill="#9198a1">Other</text>
+<line x1="262.0045351473923" x2="262.0045351473923" y1="124" y2="418" stroke="#222a33"/><text x="268.0045351473923" y="440" font-size="13" fill="#9198a1">2023</text>
+<line x1="487.12925170068024" x2="487.12925170068024" y1="124" y2="418" stroke="#222a33"/><text x="493.12925170068024" y="440" font-size="13" fill="#9198a1">2024</text>
+<line x1="712.8707482993196" x2="712.8707482993196" y1="124" y2="418" stroke="#222a33"/><text x="718.8707482993196" y="440" font-size="13" fill="#9198a1">2025</text>
+<line x1="937.9954648526077" x2="937.9954648526077" y1="124" y2="418" stroke="#222a33"/><text x="943.9954648526077" y="440" font-size="13" fill="#9198a1">2026</text>
+<line x1="56" x2="1144" y1="418" y2="418" stroke="#2f3742"/>
+<circle cx="65.1" cy="252.5" r="4.5" fill="#f472b6" stroke="#0f141b" stroke-width="1"><title>alx-pre_course · Shell · Feb 2022</title></circle>
+<circle cx="65.7" cy="271.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>pushing_trial · Feb 2022</title></circle>
+<circle cx="71.5" cy="261.9" r="4.5" fill="#f472b6" stroke="#0f141b" stroke-width="1"><title>alx-zero_day · Shell · Mar 2022</title></circle>
+<circle cx="73.1" cy="244.4" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>zero_day · Mar 2022</title></circle>
+<circle cx="74.4" cy="279.8" r="4.5" fill="#f472b6" stroke="#0f141b" stroke-width="1"><title>alx-system_engineering-devops · Shell · Mar 2022</title></circle>
+<circle cx="79.6" cy="253.8" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>trial · Mar 2022</title></circle>
+<circle cx="79.8" cy="269.8" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Kidyoh · Mar 2022</title></circle>
+<circle cx="92.9" cy="261.9" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>alx-low_level_programming · C · Apr 2022</title></circle>
+<circle cx="105.8" cy="262.1" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>printf · C · Apr 2022</title></circle>
+<circle cx="116.1" cy="257.0" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>software · May 2022</title></circle>
+<circle cx="120.7" cy="267.4" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>simple_shell · C · May 2022</title></circle>
+<circle cx="130.1" cy="250.4" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>alx-higher_level_programming · Python · Jun 2022</title></circle>
+<circle cx="130.5" cy="273.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>tsedi · Jun 2022</title></circle>
+<circle cx="130.6" cy="261.8" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>edl · Jun 2022</title></circle>
+<circle cx="142.0" cy="262.1" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>monty · C · Jun 2022</title></circle>
+<circle cx="310.3" cy="262.0" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Wollo_University_Map · C++ · Mar 2023</title></circle>
+<circle cx="341.4" cy="256.4" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Wollo_Univ_Map · Dart · May 2023</title></circle>
+<circle cx="343.2" cy="267.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>trialrepo · May 2023</title></circle>
+<circle cx="357.9" cy="253.1" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Tic-tac · TypeScript · Jun 2023</title></circle>
+<circle cx="359.7" cy="266.6" r="6.7" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>tic-tac-toe · TypeScript · Jun 2023</title></circle>
+<circle cx="380.6" cy="260.3" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>chat-app · JavaScript · Jul 2023</title></circle>
+<circle cx="388.7" cy="268.3" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>Data-Fetching-Automation · Python · Jul 2023</title></circle>
+<circle cx="392.5" cy="257.5" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Kidyoh.github.io · Jul 2023</title></circle>
+<circle cx="406.0" cy="256.3" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>DataCollectionApi · C# · Aug 2023</title></circle>
+<circle cx="406.0" cy="267.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>TextEncryptor · HTML · Aug 2023</title></circle>
+<circle cx="420.3" cy="266.9" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>sudoku_solver · TypeScript · Sep 2023</title></circle>
+<circle cx="421.3" cy="246.4" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Crypto-Search · JavaScript · Sep 2023</title></circle>
+<circle cx="423.6" cy="235.3" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>currency-convertor · JavaScript · Sep 2023</title></circle>
+<circle cx="425.8" cy="256.9" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>currencyConvertor · JavaScript · Sep 2023</title></circle>
+<circle cx="424.2" cy="277.7" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>crypto-tracker · TypeScript · Sep 2023</title></circle>
+<circle cx="427.3" cy="288.6" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>sudoku · TypeScript · Sep 2023</title></circle>
+<circle cx="435.4" cy="279.7" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>sudoku-next · TypeScript · Oct 2023</title></circle>
+<circle cx="436.8" cy="235.8" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>currency_convertor · TypeScript · Oct 2023</title></circle>
+<circle cx="440.3" cy="269.3" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>protofoli · JavaScript · Oct 2023</title></circle>
+<circle cx="440.6" cy="246.5" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>crypto_Tracker · TypeScript · Oct 2023</title></circle>
+<circle cx="440.4" cy="257.9" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>internetspeed · TypeScript · Oct 2023</title></circle>
+<circle cx="448.9" cy="286.5" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>beclassic · Oct 2023</title></circle>
+<circle cx="450.0" cy="275.2" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>web-scrapper · Python · Oct 2023</title></circle>
+<circle cx="450.2" cy="263.8" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>beclassic_frontend · TypeScript · Oct 2023</title></circle>
+<circle cx="450.4" cy="252.4" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>ethiopian-calander · TypeScript · Nov 2023</title></circle>
+<circle cx="454.7" cy="241.8" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>speedtester · JavaScript · Nov 2023</title></circle>
+<circle cx="460.2" cy="258.1" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>protofolio · TypeScript · Nov 2023</title></circle>
+<circle cx="465.0" cy="268.4" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>telegram-bot · Python · Nov 2023</title></circle>
+<circle cx="472.9" cy="285.8" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>landing-page · TypeScript · Dec 2023</title></circle>
+<circle cx="474.7" cy="274.5" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>api-frontend · TypeScript · Dec 2023</title></circle>
+<circle cx="471.6" cy="259.1" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>AutomatedDataCollection · C# · Dec 2023</title></circle>
+<circle cx="472.1" cy="247.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>OIBSIP · Dec 2023</title></circle>
+<circle cx="481.2" cy="265.2" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>CodeClauseInternship_Timer_and_Stopwatch · JavaScript · Dec 2023</title></circle>
+<circle cx="481.7" cy="253.8" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>CodeClauseInternship_ToDo_List · JavaScript · Dec 2023</title></circle>
+<circle cx="482.1" cy="242.4" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>DataFetching · C# · Dec 2023</title></circle>
+<circle cx="491.8" cy="248.5" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>OasisInfoByte_Calculator · JavaScript · Jan 2024</title></circle>
+<circle cx="491.3" cy="259.9" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>OasisInfoByte_Authentication · HTML · Jan 2024</title></circle>
+<circle cx="490.9" cy="271.3" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>OasisInfoByte_Tribute · HTML · Jan 2024</title></circle>
+<circle cx="489.8" cy="282.6" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>OasisInfoByte_TodoList · JavaScript · Jan 2024</title></circle>
+<circle cx="508.0" cy="262.0" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Gemini-vision-pro · CSS · Feb 2024</title></circle>
+<circle cx="581.9" cy="270.9" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Health-Hub-Connect-Frontend · TypeScript · Jun 2024</title></circle>
+<circle cx="582.3" cy="257.3" r="6.7" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>nexus-trade · TypeScript · Jun 2024</title></circle>
+<circle cx="598.1" cy="262.0" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>user-management · JavaScript · Jun 2024</title></circle>
+<circle cx="631.1" cy="262.0" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>Alenelachehu-Bot · Python · Aug 2024</title></circle>
+<circle cx="644.9" cy="262.0" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>honey_surprise_bot · Sep 2024</title></circle>
+<circle cx="659.5" cy="262.0" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Health-Hub · TypeScript · Oct 2024</title></circle>
+<circle cx="688.2" cy="250.8" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Leilani · JavaScript · Nov 2024</title></circle>
+<circle cx="692.0" cy="261.5" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>alenelachehu-mini-app · TypeScript · Nov 2024</title></circle>
+<circle cx="695.2" cy="272.5" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>tic-tac-fe · TypeScript · Dec 2024</title></circle>
+<circle cx="696.7" cy="242.4" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>10Academy-Week0-Challenge · Python · Dec 2024</title></circle>
+<circle cx="698.3" cy="283.5" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>s · Dec 2024</title></circle>
+<circle cx="699.9" cy="253.3" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>project · TypeScript · Dec 2024</title></circle>
+<circle cx="703.1" cy="264.3" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>10academy-Week1-Challenge · Python · Dec 2024</title></circle>
+<circle cx="706.2" cy="275.2" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>10Academy-week2-Challenge · Python · Dec 2024</title></circle>
+<circle cx="711.3" cy="253.8" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>10Academy-week3-Challenge · Jupyter Notebook · Dec 2024</title></circle>
+<circle cx="716.5" cy="266.4" r="6.7" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>ethio-earthquake-tracker · TypeScript · Jan 2025</title></circle>
+<circle cx="722.7" cy="254.2" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Tic-ta · TypeScript · Jan 2025</title></circle>
+<circle cx="740.2" cy="267.7" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>leilani-valentine · TypeScript · Feb 2025</title></circle>
+<circle cx="740.5" cy="256.3" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>hiwiye · Feb 2025</title></circle>
+<circle cx="754.8" cy="271.9" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>elearning · TypeScript · Mar 2025</title></circle>
+<circle cx="757.6" cy="251.7" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>pharmacy_scheduler · TypeScript · Mar 2025</title></circle>
+<circle cx="761.3" cy="262.5" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>gdp-dashboard · Python · Mar 2025</title></circle>
+<circle cx="784.0" cy="256.4" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>shega-opportunity-tracker · TypeScript · Apr 2025</title></circle>
+<circle cx="786.1" cy="267.6" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>prebuild-check · TypeScript · Apr 2025</title></circle>
+<circle cx="804.0" cy="262.0" r="7.6" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>ai-test-generator · TypeScript · May 2025</title></circle>
+<circle cx="1010.1" cy="258.7" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>haven · TypeScript · Apr 2026</title></circle>
+<circle cx="1019.4" cy="265.3" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Interview-Question-Generator · TypeScript · May 2026</title></circle>
+<circle cx="1036.9" cy="261.9" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>auditly · TypeScript · Jun 2026</title></circle>
+<circle cx="1054.9" cy="262.4" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>ai-compliment-generator · JavaScript · Jul 2026</title></circle>
+<circle cx="1081.6" cy="261.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>ml-road-map · MDX · Aug 2026</title></circle>
+<circle cx="1100.5" cy="307.6" r="4.5" fill="#f472b6" stroke="#0f141b" stroke-width="1"><title>kidos · Shell · Sep 2026</title></circle>
+<circle cx="1102.3" cy="225.9" r="9.9" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Musicly · Dart · Oct 2026</title></circle>
+<circle cx="1102.8" cy="249.9" r="7.6" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Calendar · Dart · Oct 2026</title></circle>
+<circle cx="1101.2" cy="280.3" r="6.7" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Waterly · Dart · Oct 2026</title></circle>
+<circle cx="1100.4" cy="296.2" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Muse · Dart · Oct 2026</title></circle>
+<circle cx="1117.3" cy="218.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Seismograph · Oct 2026</title></circle>
+<circle cx="1110.2" cy="290.5" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>AR · Dart · Oct 2026</title></circle>
+<circle cx="1102.5" cy="264.4" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Fsdethiopia · TypeScript · Oct 2026</title></circle>
+<circle cx="1117.3" cy="249.5" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Factviz · Dart · Oct 2026</title></circle>
+<circle cx="1110.3" cy="301.9" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Narnia · JavaScript · Oct 2026</title></circle>
+<circle cx="1118.7" cy="229.5" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Budget · Dart · Oct 2026</title></circle>
+<circle cx="1121.7" cy="281.6" r="7.6" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Screenshot-organizer · Kotlin · Oct 2026</title></circle>
+<circle cx="1120.1" cy="296.1" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Brain-dump · Dart · Oct 2026</title></circle>
+<circle cx="1110.4" cy="313.3" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>phone-down · Dart · Oct 2026</title></circle>
+<circle cx="1110.5" cy="324.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Launcher · HTML · Oct 2026</title></circle>
+<circle cx="1111.5" cy="271.4" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Loops · Oct 2026</title></circle>
+<circle cx="1120.2" cy="307.5" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Kdrop · Oct 2026</title></circle>
+<circle cx="1126.3" cy="256.6" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Auto-frame · Dart · Oct 2026</title></circle>
+<circle cx="1122.0" cy="267.1" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>physics · Oct 2026</title></circle>
+<circle cx="1120.3" cy="318.9" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>ios-launcher · Oct 2026</title></circle>
+<circle cx="1109.6" cy="209.8" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Planetarium- · Dart · Oct 2026</title></circle>
+<circle cx="1112.6" cy="239.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Cam-scanner · Kotlin · Oct 2026</title></circle>
+<circle cx="1113.1" cy="260.1" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Masinqo · JavaScript · Oct 2026</title></circle>
+<circle cx="1113.0" cy="198.9" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>day-diary · Dart · Oct 2026</title></circle>
+<circle cx="1123.9" cy="240.3" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>nothing-launcher · Oct 2026</title></circle>
+<circle cx="1120.7" cy="207.4" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Telebirr-redesign · Oct 2026</title></circle>
+<circle cx="1127.8" cy="222.6" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>ready-player-one · Dart · Oct 2026</title></circle>
+<circle cx="1135.4" cy="276.7" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>rent-radar · Python · Nov 2026</title></circle>
+<circle cx="1133.3" cy="265.5" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Dev-cards · TypeScript · Nov 2026</title></circle>
+<text x="1118.37641723356" y="182.44357310997464" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">26 repos in October 2026</text>
+<line x1="1102.3233408448014" x2="1062.3233408448014" y1="225.8553345977515" y2="392" stroke="#9198a1" stroke-width="1"/><text x="1056.3233408448014" y="398" font-size="13" fill="#e6edf3" text-anchor="end">Musicly · 6 stars</text>
+</svg>

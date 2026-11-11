@@ -1,101 +1,82 @@
-# 👋 Hello, I'm Kidus Yohannes!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=AI+Engineer;Flutter+%26+React+Developer;Full+Stack+Engineer;ML+%26+AI+Enthusiast;Mental+Health+Tech+Builder" alt="Typing SVG" />
-</div>
-
-## 💫 About Me
-
-I'm a Lead AI Engineer/ML Engineer at Shega.co, passionate about using machine learning and software to improve lives. I started my coding journey at Wollo University in 2020, and have since grown into a full-stack developer with a mission: building impactful, ethical, and locally relevant solutions.
-
-- 🌐 Portfolio: [kidus-yohannes.engineer](https://kidus-yohannes.engineer/)
-- 🚀 First deployed site (2022): [Beclassicphotography.com](https://beclassicphotography.com)
-- 🧠 Co-founder of **MindBloom**, an AI-driven mental health platform under Ubuntu in Mela: 
-- 📱 Flutter + React for rapid cross-platform development [Mindbloom](https://mindbloom.kidus.engineer)
-- 🤝 Collaborating with NGOs like Alenelachehu to expand access to mental health support
-- 🎯 Exploring NLP, LLMs, and AI-powered learning systems
-- 🎶 Hobbies: Singing, photography, deep conversations, and long walks
-
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-kidus.engineer-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kidus.engineer)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Kidusyoh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidus-yohannes-568a31207)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kidyoh789)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Kidus Yohannes. A line chart of public repositories over time." width="100%"></picture>
+
+[Portfolio](https://kidus-yohannes.engineer/) ·
+[X / Twitter](https://twitter.com/Kidusyoh) ·
+[LinkedIn](https://www.linkedin.com/in/kidus-yohannes-568a31207) ·
+[Medium](https://medium.com/@kidyoh789)
 
 </div>
 
-## 💻 Tech Stack
+I'm co-founder of [MindBloom](https://mindbloom.kidus.engineer), an AI-driven
+mental health platform. I started coding at Wollo University in 2020 and have been shipping
+since: Flutter and Kotlin apps, React and Next.js sites, and the ML that sits
+behind them. A lot of it is built for Ethiopia first.
 
-<div align="center">
+## Featured
 
-### 🧠 AI & ML  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+<a href="https://github.com/Kidyoh/Calendar"><img src="assets/featured/glass-calendar.jpg" alt="Glass Calendar: frosted-glass widgets, pastel task cards and an Ethiopian calendar in Amharic" width="100%"></a>
 
-### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+**[Glass Calendar](https://github.com/Kidyoh/Calendar)** · Gregorian and
+Ethiopian calendars in one app, in English and Amharic, with holidays, fasts,
+reminders and home-screen widgets. *Flutter.*
 
-### 🖥️ Frontend Development  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kidyoh/Musicly"><img src="assets/featured/musicly.jpg" alt="Musicly: music that feels like yours" width="100%"></a>
+      <br><br>
+      <b><a href="https://github.com/Kidyoh/Musicly">Musicly</a></b> · Plays songs from your Telegram channels, your phone, live radio and YouTube, with synced lyrics and listen-together Jams. <i>Flutter.</i>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kidyoh/Screenshot-organizer"><img src="assets/featured/snapsort.jpg" alt="SnapSort: screenshots, sorted" width="100%"></a>
+      <br><br>
+      <b><a href="https://github.com/Kidyoh/Screenshot-organizer">SnapSort</a></b> · Sorts your Screenshots folder by app, album and date, fully offline, with swipe-to-clean and a duplicate finder. <i>Kotlin, Jetpack Compose.</i>
+    </td>
+  </tr>
+</table>
 
-### 🔧 Backend & Tools  
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+## More things I've built
 
-### 🎨 Styling & Design  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/Kidyoh/Waterly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/waterly-dark.svg"><img src="assets/apps/waterly-light.svg" alt="Waterly: A water tracker where the screen is a glass of water that tilts with your phone."></picture></a><br><sub><a href="https://github.com/Kidyoh/Waterly">Code</a></sub></td>
+    <td width="50%"><a href="https://dev-cards-eta.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/dev-cards-dark.svg"><img src="assets/apps/dev-cards-light.svg" alt="Specsheet: Turns any GitHub username into a trading card, with stats from public GitHub data."></picture></a><br><sub><a href="https://dev-cards-eta.vercel.app">Live</a> · <a href="https://github.com/Kidyoh/Dev-cards">Code</a></sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Kidyoh/rent-radar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/rent-radar-dark.svg"><img src="assets/apps/rent-radar-light.svg" alt="Addis Rent Radar: A Telegram bot that turns Addis Ababa rental channels into one searchable feed with price alerts."></picture></a><br><sub><a href="https://github.com/Kidyoh/rent-radar">Code</a></sub></td>
+    <td width="50%"><a href="https://ml-road-map.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/ml-road-map-dark.svg"><img src="assets/apps/ml-road-map-light.svg" alt="ML Roadmap: An interactive machine learning roadmap where each node unlocks after its prerequisites."></picture></a><br><sub><a href="https://ml-road-map.vercel.app">Live</a> · <a href="https://github.com/Kidyoh/ml-road-map">Code</a></sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://masinqo-sooty.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/masinqo-dark.svg"><img src="assets/apps/masinqo-light.svg" alt="Masinqo Practice: Practice the Ethiopian masinqo in the browser on a playable 3D instrument with recorded samples."></picture></a><br><sub><a href="https://masinqo-sooty.vercel.app">Live</a> · <a href="https://github.com/Kidyoh/Masinqo">Code</a></sub></td>
+    <td width="50%"><a href="https://ethio-earthquake.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/ethio-earthquake-tracker-dark.svg"><img src="assets/apps/ethio-earthquake-tracker-light.svg" alt="Ethiopia Earthquake Monitor: Maps and tracks earthquakes in Ethiopia from live USGS data, in English and Amharic."></picture></a><br><sub><a href="https://ethio-earthquake.vercel.app">Live</a> · <a href="https://github.com/Kidyoh/ethio-earthquake-tracker">Code</a></sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://auditly.kidus-yohannes.engineer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/auditly-dark.svg"><img src="assets/apps/auditly-light.svg" alt="Auditly: Scans your GitHub repositories' dependencies for known vulnerabilities using OSV.dev."></picture></a><br><sub><a href="https://auditly.kidus-yohannes.engineer">Live</a> · <a href="https://github.com/Kidyoh/auditly">Code</a></sub></td>
+    <td width="50%"><a href="https://github.com/Kidyoh?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/more-dark.svg"><img src="assets/apps/more-light.svg" alt="More public repositories"></picture></a><br><sub><a href="https://github.com/Kidyoh?tab=repositories">All repositories</a></sub></td>
+  </tr>
+</table>
 
-### ☁️ Deployment & DevOps  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+## Commits, streaks and progress
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" alt="Contributions in the last year as a calendar heatmap, with current streak, longest streak, best day and active days." width="100%"></picture>
 
-## 📊 GitHub Stats
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/progress-dark.svg"><img src="assets/progress-light.svg" alt="Contributions per month since the account began, with yearly totals." width="100%"></picture>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Contributions by weekday and by type over the last year." width="100%"></picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kidyoh&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+## The shape of it
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kidyoh&theme=react&hide_border=false)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg"><img src="assets/timeline-light.svg" alt="A timeline with one dot for every public repository, placed by the day it was created and coloured by main language." width="100%"></picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidyoh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg"><img src="assets/numbers-light.svg" alt="Counts of public repositories, stars and main languages." width="100%"></picture>
 
-</div>
+<sub>Charts are drawn with D3 from my GitHub activity and refreshed every day.</sub>
 
-## ✍️ Random Dev Quote
+## Say hello
 
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Kidyoh&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- 
-Credit: [Kidyoh](https://github.com/Kidyoh)
-Last Updated: May 2025
--->
+I like talking about AI for local languages, mental health tech, and small
+apps that feel good to use. The fastest way to reach me is
+[X](https://twitter.com/Kidusyoh) or
+[LinkedIn](https://www.linkedin.com/in/kidus-yohannes-568a31207).
