@@ -9,10 +9,9 @@
 
 </div>
 
-I'm co-founder of [MindBloom](https://mindbloom.kidus.engineer), an AI-driven
-mental health platform. I started coding at Wollo University in 2020 and have been shipping
-since: Flutter and Kotlin apps, React and Next.js sites, and the ML that sits
-behind them. A lot of it is built for Ethiopia first.
+I've been coding since 2020 and shipping ever since: Flutter and Kotlin apps,
+React and Next.js sites, and the ML that sits behind them. A lot of it is
+built for Ethiopia first.
 
 ## Featured
 
