@@ -9,9 +9,9 @@
 
 </div>
 
-I've been coding since 2020 and shipping ever since: Flutter and Kotlin apps,
-React and Next.js sites, and the ML that sits behind them. A lot of it is
-built for Ethiopia first.
+I'm an ML engineer. I've been coding since 2020, and most of what I build
+starts with a model: NLP and LLM systems, and the Flutter, Kotlin and Next.js
+apps that put them in people's hands. A lot of it is built for Ethiopia first.
 
 ## Featured
 
@@ -75,7 +75,7 @@ reminders and home-screen widgets. *Flutter.*
 
 ## Say hello
 
-I like talking about AI for local languages, mental health tech, and small
-apps that feel good to use. The fastest way to reach me is
+I like talking about machine learning, AI for local languages, and small apps
+that feel good to use. The fastest way to reach me is
 [X](https://twitter.com/Kidusyoh) or
 [LinkedIn](https://www.linkedin.com/in/kidus-yohannes-568a31207).
