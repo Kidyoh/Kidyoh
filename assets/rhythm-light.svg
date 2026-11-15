@@ -4,39 +4,39 @@
 
 <text x="56" y="52" font-size="22" font-weight="700" fill="#1f2328">Busiest on Tuesdays</text>
 <text x="56" y="76" font-size="14" fill="#59636e">Contributions by weekday, last year</text>
-<rect x="75.9" y="166.2" width="46.4" height="95.8" rx="5" fill="#2563eb" opacity="0.42"/>
-<text x="99.1" y="158.2" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">218</text>
+<rect x="75.9" y="166.0" width="46.4" height="96.0" rx="5" fill="#2563eb" opacity="0.42"/>
+<text x="99.1" y="158.0" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">218</text>
 <text x="99.1" y="286" font-size="13" fill="#59636e" text-anchor="middle">Sun</text>
-<rect x="142.2" y="138.6" width="46.4" height="123.4" rx="5" fill="#2563eb" opacity="0.42"/>
-<text x="165.4" y="130.6" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">281</text>
+<rect x="142.2" y="138.2" width="46.4" height="123.8" rx="5" fill="#2563eb" opacity="0.42"/>
+<text x="165.4" y="130.2" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">281</text>
 <text x="165.4" y="286" font-size="13" fill="#59636e" text-anchor="middle">Mon</text>
 <rect x="208.5" y="110.0" width="46.4" height="152.0" rx="5" fill="#2563eb" opacity="1"/>
-<text x="231.7" y="102.0" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">346</text>
+<text x="231.7" y="102.0" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">345</text>
 <text x="231.7" y="286" font-size="13" fill="#59636e" text-anchor="middle">Tue</text>
-<rect x="274.8" y="136.4" width="46.4" height="125.6" rx="5" fill="#2563eb" opacity="0.42"/>
-<text x="298.0" y="128.4" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">286</text>
+<rect x="274.8" y="136.0" width="46.4" height="126.0" rx="5" fill="#2563eb" opacity="0.42"/>
+<text x="298.0" y="128.0" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">286</text>
 <text x="298.0" y="286" font-size="13" fill="#59636e" text-anchor="middle">Wed</text>
-<rect x="341.1" y="124.5" width="46.4" height="137.5" rx="5" fill="#2563eb" opacity="0.42"/>
-<text x="364.3" y="116.5" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">313</text>
+<rect x="341.1" y="124.1" width="46.4" height="137.9" rx="5" fill="#2563eb" opacity="0.42"/>
+<text x="364.3" y="116.1" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">313</text>
 <text x="364.3" y="286" font-size="13" fill="#59636e" text-anchor="middle">Thu</text>
-<rect x="407.4" y="135.9" width="46.4" height="126.1" rx="5" fill="#2563eb" opacity="0.42"/>
-<text x="430.6" y="127.9" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">287</text>
+<rect x="407.4" y="135.6" width="46.4" height="126.4" rx="5" fill="#2563eb" opacity="0.42"/>
+<text x="430.6" y="127.6" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">287</text>
 <text x="430.6" y="286" font-size="13" fill="#59636e" text-anchor="middle">Fri</text>
-<rect x="473.7" y="182.5" width="46.4" height="79.5" rx="5" fill="#2563eb" opacity="0.42"/>
-<text x="496.9" y="174.5" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">181</text>
+<rect x="473.7" y="175.2" width="46.4" height="86.8" rx="5" fill="#2563eb" opacity="0.42"/>
+<text x="496.9" y="167.2" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">197</text>
 <text x="496.9" y="286" font-size="13" fill="#59636e" text-anchor="middle">Sat</text>
 <text x="640" y="52" font-size="22" font-weight="700" fill="#1f2328">What the year was made of</text>
 <text x="640" y="76" font-size="14" fill="#59636e">Contributions by type, last year</text>
 <text x="744" y="126.3211009174312" font-size="14" fill="#59636e" text-anchor="end">Commits</text>
-<rect x="756" y="107.5" width="35.4" height="27.6" rx="4" fill="#2563eb"><animate attributeName="width" from="0" to="35.4" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
-<text x="801.4" y="126.3211009174312" font-size="14" font-weight="600" fill="#1f2328">180</text>
+<rect x="756" y="107.5" width="35.0" height="27.6" rx="4" fill="#2563eb"><animate attributeName="width" from="0" to="35.0" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
+<text x="801.0" y="126.3211009174312" font-size="14" font-weight="600" fill="#1f2328">180</text>
 <text x="744" y="169.44036697247708" font-size="14" fill="#59636e" text-anchor="end">Pull requests</text>
 <rect x="756" y="150.6" width="4.9" height="27.6" rx="4" fill="#2563eb"><animate attributeName="width" from="0" to="4.9" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
 <text x="770.9" y="169.44036697247708" font-size="14" font-weight="600" fill="#1f2328">25</text>
 <text x="744" y="212.55963302752295" font-size="14" fill="#59636e" text-anchor="end">New repos</text>
-<rect x="756" y="193.8" width="7.5" height="27.6" rx="4" fill="#2563eb"><animate attributeName="width" from="0" to="7.5" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
-<text x="773.5" y="212.55963302752295" font-size="14" font-weight="600" fill="#1f2328">38</text>
+<rect x="756" y="193.8" width="7.4" height="27.6" rx="4" fill="#2563eb"><animate attributeName="width" from="0" to="7.4" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
+<text x="773.4" y="212.55963302752295" font-size="14" font-weight="600" fill="#1f2328">38</text>
 <text x="744" y="255.67889908256882" font-size="14" fill="#59636e" text-anchor="end">Private work</text>
 <rect x="756" y="236.9" width="328.0" height="27.6" rx="4" fill="#2563eb"><animate attributeName="width" from="0" to="328.0" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
-<text x="1094.0" y="255.67889908256882" font-size="14" font-weight="600" fill="#1f2328">1,670</text>
+<text x="1094.0" y="255.67889908256882" font-size="14" font-weight="600" fill="#1f2328">1,685</text>
 </svg>
