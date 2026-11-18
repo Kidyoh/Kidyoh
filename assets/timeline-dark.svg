@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Timeline of 114 public repositories by creation date. 26 repos in October 2026." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
-<title>Timeline of 114 public repositories by creation date. 26 repos in October 2026.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="Timeline of 116 public repositories by creation date. 26 repos in October 2026." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<title>Timeline of 116 public repositories by creation date. 26 repos in October 2026.</title>
 <rect x="0.5" y="0.5" width="1199" height="469" rx="18" fill="#0f141b" stroke="#2f3742"/>
 
 <text x="56" y="52" font-size="22" font-weight="700" fill="#e6edf3">Every public repo, by the day it started</text>
@@ -98,37 +98,39 @@
 <circle cx="1010.1" cy="258.7" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>haven · TypeScript · Apr 2026</title></circle>
 <circle cx="1019.4" cy="265.3" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Interview-Question-Generator · TypeScript · May 2026</title></circle>
 <circle cx="1036.9" cy="261.9" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>auditly · TypeScript · Jun 2026</title></circle>
-<circle cx="1054.9" cy="262.4" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>ai-compliment-generator · JavaScript · Jul 2026</title></circle>
-<circle cx="1081.6" cy="261.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>ml-road-map · MDX · Aug 2026</title></circle>
-<circle cx="1100.5" cy="307.6" r="4.5" fill="#f472b6" stroke="#0f141b" stroke-width="1"><title>kidos · Shell · Sep 2026</title></circle>
-<circle cx="1102.3" cy="225.9" r="9.9" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Musicly · Dart · Oct 2026</title></circle>
-<circle cx="1102.8" cy="249.9" r="7.6" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Calendar · Dart · Oct 2026</title></circle>
-<circle cx="1101.2" cy="280.3" r="6.7" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Waterly · Dart · Oct 2026</title></circle>
-<circle cx="1100.4" cy="296.2" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Muse · Dart · Oct 2026</title></circle>
-<circle cx="1117.3" cy="218.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Seismograph · Oct 2026</title></circle>
-<circle cx="1110.2" cy="290.5" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>AR · Dart · Oct 2026</title></circle>
-<circle cx="1102.5" cy="264.4" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Fsdethiopia · TypeScript · Oct 2026</title></circle>
-<circle cx="1117.3" cy="249.5" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Factviz · Dart · Oct 2026</title></circle>
-<circle cx="1110.3" cy="301.9" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Narnia · JavaScript · Oct 2026</title></circle>
-<circle cx="1118.7" cy="229.5" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Budget · Dart · Oct 2026</title></circle>
-<circle cx="1121.7" cy="281.6" r="7.6" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Screenshot-organizer · Kotlin · Oct 2026</title></circle>
-<circle cx="1120.1" cy="296.1" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Brain-dump · Dart · Oct 2026</title></circle>
-<circle cx="1110.4" cy="313.3" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>phone-down · Dart · Oct 2026</title></circle>
-<circle cx="1110.5" cy="324.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Launcher · HTML · Oct 2026</title></circle>
-<circle cx="1111.5" cy="271.4" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Loops · Oct 2026</title></circle>
-<circle cx="1120.2" cy="307.5" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Kdrop · Oct 2026</title></circle>
-<circle cx="1126.3" cy="256.6" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Auto-frame · Dart · Oct 2026</title></circle>
-<circle cx="1122.0" cy="267.1" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>physics · Oct 2026</title></circle>
-<circle cx="1120.3" cy="318.9" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>ios-launcher · Oct 2026</title></circle>
-<circle cx="1109.6" cy="209.8" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Planetarium- · Dart · Oct 2026</title></circle>
-<circle cx="1112.6" cy="239.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Cam-scanner · Kotlin · Oct 2026</title></circle>
-<circle cx="1113.1" cy="260.1" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Masinqo · JavaScript · Oct 2026</title></circle>
-<circle cx="1113.0" cy="198.9" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>day-diary · Dart · Oct 2026</title></circle>
-<circle cx="1123.9" cy="240.3" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>nothing-launcher · Oct 2026</title></circle>
-<circle cx="1120.7" cy="207.4" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Telebirr-redesign · Oct 2026</title></circle>
-<circle cx="1127.8" cy="222.6" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>ready-player-one · Dart · Oct 2026</title></circle>
-<circle cx="1135.4" cy="276.7" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>rent-radar · Python · Nov 2026</title></circle>
-<circle cx="1133.3" cy="265.5" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Dev-cards · TypeScript · Nov 2026</title></circle>
-<text x="1118.37641723356" y="182.44357310997464" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">26 repos in October 2026</text>
-<line x1="1102.3233408448014" x2="1062.3233408448014" y1="225.8553345977515" y2="392" stroke="#9198a1" stroke-width="1"/><text x="1056.3233408448014" y="398" font-size="13" fill="#e6edf3" text-anchor="end">Musicly · 6 stars</text>
+<circle cx="1054.9" cy="261.7" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>ai-compliment-generator · JavaScript · Jul 2026</title></circle>
+<circle cx="1081.6" cy="262.3" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>ml-road-map · MDX · Aug 2026</title></circle>
+<circle cx="1095.0" cy="293.7" r="4.5" fill="#f472b6" stroke="#0f141b" stroke-width="1"><title>kidos · Shell · Sep 2026</title></circle>
+<circle cx="1104.5" cy="253.2" r="9.9" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Musicly · Dart · Oct 2026</title></circle>
+<circle cx="1099.5" cy="272.5" r="7.6" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Calendar · Dart · Oct 2026</title></circle>
+<circle cx="1102.7" cy="223.8" r="6.7" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Waterly · Dart · Oct 2026</title></circle>
+<circle cx="1105.8" cy="297.6" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Muse · Dart · Oct 2026</title></circle>
+<circle cx="1114.5" cy="290.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Seismograph · Oct 2026</title></circle>
+<circle cx="1103.7" cy="286.4" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>AR · Dart · Oct 2026</title></circle>
+<circle cx="1113.1" cy="267.6" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Fsdethiopia · TypeScript · Oct 2026</title></circle>
+<circle cx="1112.4" cy="279.0" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Factviz · Dart · Oct 2026</title></circle>
+<circle cx="1121.8" cy="260.2" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Narnia · JavaScript · Oct 2026</title></circle>
+<circle cx="1123.2" cy="282.8" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Budget · Dart · Oct 2026</title></circle>
+<circle cx="1114.2" cy="235.9" r="7.6" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Screenshot-organizer · Kotlin · Oct 2026</title></circle>
+<circle cx="1109.7" cy="212.1" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Brain-dump · Dart · Oct 2026</title></circle>
+<circle cx="1123.9" cy="271.5" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>phone-down · Dart · Oct 2026</title></circle>
+<circle cx="1107.8" cy="308.8" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Launcher · HTML · Oct 2026</title></circle>
+<circle cx="1109.8" cy="320.0" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Loops · Oct 2026</title></circle>
+<circle cx="1125.2" cy="294.1" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Kdrop · Oct 2026</title></circle>
+<circle cx="1099.8" cy="237.1" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Auto-frame · Dart · Oct 2026</title></circle>
+<circle cx="1118.5" cy="312.6" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>physics · Oct 2026</title></circle>
+<circle cx="1121.0" cy="211.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>ios-launcher · Oct 2026</title></circle>
+<circle cx="1114.6" cy="201.8" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>Planetarium- · Dart · Oct 2026</title></circle>
+<circle cx="1128.1" cy="240.2" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Cam-scanner · Kotlin · Oct 2026</title></circle>
+<circle cx="1116.5" cy="301.4" r="4.5" fill="#2dd4bf" stroke="#0f141b" stroke-width="1"><title>Masinqo · JavaScript · Oct 2026</title></circle>
+<circle cx="1120.7" cy="248.9" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>day-diary · Dart · Oct 2026</title></circle>
+<circle cx="1125.9" cy="227.3" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>nothing-launcher · Oct 2026</title></circle>
+<circle cx="1116.1" cy="221.5" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>Telebirr-redesign · Oct 2026</title></circle>
+<circle cx="1127.2" cy="305.3" r="4.5" fill="#fbbf24" stroke="#0f141b" stroke-width="1"><title>ready-player-one · Dart · Oct 2026</title></circle>
+<circle cx="1133.4" cy="277.8" r="4.5" fill="#a78bfa" stroke="#0f141b" stroke-width="1"><title>rent-radar · Python · Nov 2026</title></circle>
+<circle cx="1132.4" cy="256.0" r="4.5" fill="#60a5fa" stroke="#0f141b" stroke-width="1"><title>Dev-cards · TypeScript · Nov 2026</title></circle>
+<circle cx="1136.2" cy="266.7" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>dependency-tracker · Nov 2026</title></circle>
+<circle cx="1137.9" cy="246.0" r="4.5" fill="#6e7681" stroke="#0f141b" stroke-width="1"><title>worklog-plugin · Nov 2026</title></circle>
+<text x="1118.37641723356" y="185.32769312517507" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">26 repos in October 2026</text>
+<line x1="1104.4690204806025" x2="1064.4690204806025" y1="253.2334701475191" y2="392" stroke="#9198a1" stroke-width="1"/><text x="1058.4690204806025" y="398" font-size="13" fill="#e6edf3" text-anchor="end">Musicly · 6 stars</text>
 </svg>
