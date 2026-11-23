@@ -4,8 +4,8 @@
 
 <text x="56" y="52" font-size="22" font-weight="700" fill="#e6edf3">Busiest on Tuesdays</text>
 <text x="56" y="76" font-size="14" fill="#9198a1">Contributions by weekday, last year</text>
-<rect x="75.9" y="166.4" width="46.4" height="95.6" rx="5" fill="#60a5fa" opacity="0.42"/>
-<text x="99.1" y="158.4" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">234</text>
+<rect x="75.9" y="160.7" width="46.4" height="101.3" rx="5" fill="#60a5fa" opacity="0.42"/>
+<text x="99.1" y="152.7" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">248</text>
 <text x="99.1" y="286" font-size="13" fill="#9198a1" text-anchor="middle">Sun</text>
 <rect x="142.2" y="140.2" width="46.4" height="121.8" rx="5" fill="#60a5fa" opacity="0.42"/>
 <text x="165.4" y="132.2" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">298</text>
@@ -38,5 +38,5 @@
 <text x="772.9" y="212.55963302752295" font-size="14" font-weight="600" fill="#e6edf3">38</text>
 <text x="744" y="255.67889908256882" font-size="14" fill="#9198a1" text-anchor="end">Private work</text>
 <rect x="756" y="236.9" width="328.0" height="27.6" rx="4" fill="#60a5fa"><animate attributeName="width" from="0" to="328.0" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
-<text x="1094.0" y="255.67889908256882" font-size="14" font-weight="600" fill="#e6edf3">1,809</text>
+<text x="1094.0" y="255.67889908256882" font-size="14" font-weight="600" fill="#e6edf3">1,805</text>
 </svg>
