@@ -16,8 +16,8 @@
 <rect x="274.8" y="132.7" width="46.4" height="129.3" rx="5" fill="#60a5fa" opacity="0.42"/>
 <text x="298.0" y="124.7" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">324</text>
 <text x="298.0" y="286" font-size="13" fill="#9198a1" text-anchor="middle">Wed</text>
-<rect x="341.1" y="129.9" width="46.4" height="132.1" rx="5" fill="#60a5fa" opacity="0.42"/>
-<text x="364.3" y="121.9" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">331</text>
+<rect x="341.1" y="123.2" width="46.4" height="138.8" rx="5" fill="#60a5fa" opacity="0.42"/>
+<text x="364.3" y="115.2" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">348</text>
 <text x="364.3" y="286" font-size="13" fill="#9198a1" text-anchor="middle">Thu</text>
 <rect x="407.4" y="142.3" width="46.4" height="119.7" rx="5" fill="#60a5fa" opacity="0.42"/>
 <text x="430.6" y="134.3" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">300</text>
@@ -28,15 +28,15 @@
 <text x="640" y="52" font-size="22" font-weight="700" fill="#e6edf3">What the year was made of</text>
 <text x="640" y="76" font-size="14" fill="#9198a1">Contributions by type, last year</text>
 <text x="744" y="126.3211009174312" font-size="14" fill="#9198a1" text-anchor="end">Commits</text>
-<rect x="756" y="107.5" width="33.4" height="27.6" rx="4" fill="#60a5fa"><animate attributeName="width" from="0" to="33.4" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
-<text x="799.4" y="126.3211009174312" font-size="14" font-weight="600" fill="#e6edf3">189</text>
+<rect x="756" y="107.5" width="33.1" height="27.6" rx="4" fill="#60a5fa"><animate attributeName="width" from="0" to="33.1" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
+<text x="799.1" y="126.3211009174312" font-size="14" font-weight="600" fill="#e6edf3">189</text>
 <text x="744" y="169.44036697247708" font-size="14" fill="#9198a1" text-anchor="end">Pull requests</text>
 <rect x="756" y="150.6" width="4.9" height="27.6" rx="4" fill="#60a5fa"><animate attributeName="width" from="0" to="4.9" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
 <text x="770.9" y="169.44036697247708" font-size="14" font-weight="600" fill="#e6edf3">28</text>
 <text x="744" y="212.55963302752295" font-size="14" fill="#9198a1" text-anchor="end">New repos</text>
-<rect x="756" y="193.8" width="6.9" height="27.6" rx="4" fill="#60a5fa"><animate attributeName="width" from="0" to="6.9" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
-<text x="772.9" y="212.55963302752295" font-size="14" font-weight="600" fill="#e6edf3">39</text>
+<rect x="756" y="193.8" width="6.8" height="27.6" rx="4" fill="#60a5fa"><animate attributeName="width" from="0" to="6.8" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
+<text x="772.8" y="212.55963302752295" font-size="14" font-weight="600" fill="#e6edf3">39</text>
 <text x="744" y="255.67889908256882" font-size="14" fill="#9198a1" text-anchor="end">Private work</text>
 <rect x="756" y="236.9" width="328.0" height="27.6" rx="4" fill="#60a5fa"><animate attributeName="width" from="0" to="328.0" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1"/></rect>
-<text x="1094.0" y="255.67889908256882" font-size="14" font-weight="600" fill="#e6edf3">1,857</text>
+<text x="1094.0" y="255.67889908256882" font-size="14" font-weight="600" fill="#e6edf3">1,874</text>
 </svg>
